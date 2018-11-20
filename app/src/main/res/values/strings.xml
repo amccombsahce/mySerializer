@@ -1,0 +1,6 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">mySerializer English_USA</string>
+    <string name="app_name_folder"><xliff:g id="folder">mySerializer</xliff:g></string>
+    <string name="hello_world">Hello World</string>
+    <string name="button_add_car">Add Car</string>
+</resources>
